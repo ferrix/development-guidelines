@@ -80,7 +80,7 @@
 - MUST have periodical OS updates for all services not managed by cloud
 - MUST document manually managed virtual machines' maintenance and security processes
 - MUST encrypt data at rest in cloud
-- MUST rotate encryption keys every 365 days (that are used for data at rest) in cloud 
+- MUST rotate encryption keys every 365 days (that are used for data at rest) in cloud
 - MUST have billing alerts in cloud
 - SHOULD have infrastructure as code
 - MUST have repeatable infrastructure
@@ -96,7 +96,7 @@
 - MUST ensure that company policy regarding cookie classification and consents are followed (if applicable)
 - MUST document the application architecture, personal data flows and needed security measures to ensure compliance with business, privacy and information security requirements
 - MUST document all personal data used in testing and development, backups and log data
-- MUST have required monitoring functionalities concerning usage of personal data based on data classification 
+- MUST have required monitoring functionalities concerning usage of personal data based on data classification
 - MUST ensure that only necessary personal data will be collected and/or processed
 - MUST implement functionality for defining retention times for all personal data
 - MUST be able to erase (or anonymize) all (or partial) personal data on expiration or when requested by data subject
