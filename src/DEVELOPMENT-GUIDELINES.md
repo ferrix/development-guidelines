@@ -87,9 +87,10 @@
 
 ## Security
 
-- MUST run automated vulnerability checks for code
+- MUST run automated vulnerability checks for code and fix or mitigate the findings
 - SHOULD run automated static code analysis for code quality
-- MUST restrict access to development environments from the open internet
+- MUST restrict unnecessary access to environments and endpoints from the open internet
+- SHOULD conduct threat modelling when the security model of the software changes
 
 ## Compliance
 
